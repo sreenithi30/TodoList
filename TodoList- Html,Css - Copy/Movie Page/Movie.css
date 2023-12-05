@@ -1,0 +1,83 @@
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    background-size: cover;
+    height: 150vh;
+}
+
+.carousel-container {
+
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin: 10px;
+    padding: 5px;
+
+}
+
+.heading-1 {
+    font-family: "Roboto";
+    color: white;
+    padding: 8px;
+    margin: 0px;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.button-1 {
+    background-color: white;
+    padding: 8px;
+    margin: 5px;
+    color: #ff8348;
+    border-radius: 10px;
+    border-width: 0px;
+    font-size: 15px;
+    width: 100px;
+    height: 35px;
+    text-align: center;
+}
+
+.nemo-para {
+    font-family: "Roboto";
+    color: white;
+    padding: 2px;
+    margin: 15px;
+    font-size: 15px;
+    font-weight: normal;
+    text-align: left;
+}
+
+.heading-2 {
+    font-family: "Roboto";
+    color: white;
+    margin: 15px;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.movie-image {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+
+.a-img {
+    height: 100px;
+    width: 80px;
+    margin: 10px;
+}
+
+.b-img {
+    height: 100px;
+    width: 80px;
+    margin: 10px;
+}
+
+.c-img {
+    height: 100px;
+    width: 80px;
+    margin: 10px;
+}
